@@ -1,4 +1,4 @@
-# Organizer - Server Config
+# Organizer - Cloud Config
 
 Server to provide externalized configuration for Organizer.
 
@@ -6,7 +6,7 @@ Server to provide externalized configuration for Organizer.
 
 * Kotlin 1.3.11
 * Spring 5.1.3 (Spring Boot 2.1.1)
-* Spring Config Server (Greenwich.RC2)
+* Spring Cloud Config (Greenwich.RC2)
 * Gradle 5.0 + Kotlin DSL
 
 ## Based on...

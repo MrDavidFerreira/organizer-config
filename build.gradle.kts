@@ -32,6 +32,7 @@ dependencies {
     }
 
     implementation(platform("org.springframework.cloud:spring-cloud-dependencies:Greenwich.RC2")) //BOM
+    implementation("org.springframework.cloud:spring-cloud-starter-netflix-eureka-client")
     implementation("org.springframework.cloud:spring-cloud-config-server")
 
     testImplementation("org.junit.jupiter:junit-jupiter-api")
